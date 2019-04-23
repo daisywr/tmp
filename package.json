@@ -1,0 +1,26 @@
+{
+  "name": "tmp",
+  "version": "0.0.0-development",
+  "description": "test for semantics-release",
+  "main": "index.js",
+  "dependencies": {
+    "conventional-changelog-eslint": "^3.0.1"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.13.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daisywr/tmp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daisywr/tmp/issues"
+  },
+  "homepage": "https://github.com/daisywr/tmp#readme"
+}
