@@ -1,6 +1,6 @@
 {
   "name": "tmp",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "test for semantics-release",
   "main": "index.js",
   "dependencies": {
