@@ -7,6 +7,7 @@
     "conventional-changelog-eslint": "^3.0.1"
   },
   "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0",
     "semantic-release": "^15.13.3"
   },
   "scripts": {
@@ -22,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/daisywr/tmp/issues"
   },
-  "homepage": "https://github.com/daisywr/tmp#readme"
+  "homepage": "https://github.com/daisywr/tmp#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
